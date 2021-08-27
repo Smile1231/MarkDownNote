@@ -30,6 +30,7 @@
       - [Jpa 的简单实用](#jpa-的简单实用)
     - [多线程知识](#多线程知识)
     - [Git的使用](#git的使用)
+      - [关于本地``Git``传送``Blog``的注意点](#关于本地git传送blog的注意点)
     - [ElasticSearch相关](#elasticsearch相关)
       - [🌟ES知识以及整合SpringBoot](#es知识以及整合springboot)
       - [ES基础（狂神版本）](#es基础狂神版本)
@@ -135,6 +136,8 @@
       - [``Corn``表达式](#corn表达式)
       - [关于``Exception``的一些小心得](#关于exception的一些小心得)
       - [``Assert``断言](#assert断言)
+      - [关于本地``Git``传送``Blog``的注意点](#关于本地git传送blog的注意点-1)
+      - [`EasyExcel`的使用](#easyexcel的使用)
     - [小程序项目杂记](#小程序项目杂记)
       - [小程序获取``openId``](#小程序获取openid)
       - [小程序使用``weUI``](#小程序使用weui)
@@ -148,7 +151,12 @@
   - [``IDEA``小图标含义](#idea小图标含义)
   - [``DateUse``](#dateuse)
     - [``Anaconda``的基本使用](#anaconda的基本使用)
-
+    - [`numpy`的使用](#numpy的使用)
+  - [Algorithm](#algorithm)
+    - [二叉树遍历算法](#二叉树遍历算法)
+    - [分治算法](#分治算法)
+    - [贪心算法](#贪心算法)
+    - [dp算法](#dp算法)
 
 
 
@@ -221,6 +229,8 @@
 <hr>
 
 ### [Git的使用](./Java后端/Git笔记/Git常用指令.md)
+
+#### [关于本地``Git``传送``Blog``的注意点](./日常Blog/关于Git写Blog的注意点.md)
 
 <hr>
 
@@ -466,6 +476,10 @@
 
 #### [``Assert``断言](./日常Blog/Assert断言.md)
 
+#### [关于本地``Git``传送``Blog``的注意点](./日常Blog/关于Git写Blog的注意点.md)
+
+#### [`EasyExcel`的使用](./日常Blog/EasyExcel的使用.md)
+
 
 
 
@@ -479,7 +493,7 @@
 
 #### [``Ngrok``的使用(内网穿透)](./Java后端/Ngrok.md)
 
-#### [``Java``中的可以使用的工具类,很方便]()
+#### [``Java``中的可以使用的工具类,很方便](./日常Blog/Java自带的好用的工具类.md)
 
 <hr>
 
@@ -498,6 +512,18 @@
 ## [``DateUse``](./研究生生涯/单基因病遗传数据库/数据挖掘)
 
 ### [``Anaconda``的基本使用](./研究生生涯/单基因病遗传数据库/数据挖掘/Anaconda基本.md)
+
+### [`numpy`的使用](./研究生生涯/单基因病遗传数据库/数据挖掘/数据分析/)
+
+## [Algorithm](./algorithm/)
+
+### [二叉树遍历算法](./algorithm/二叉树/二叉树遍历.md)
+
+### [分治算法](./algorithm/dp算法/动态规划.md)
+
+### [贪心算法](./algorithm/贪心算法/贪心算法.md)
+
+### [dp算法](./algorithm/dp算法/动态规划.md)
 
 
 <div style="height:200px;"></div>
