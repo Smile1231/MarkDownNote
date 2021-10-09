@@ -88,6 +88,10 @@
       - [常见Java 包 解释](#常见java-包-解释)
       - [``MyBatis``实现批量插入](#mybatis实现批量插入)
       - [``MBP``实现分页查询](#mbp实现分页查询)
+      - [`Mybatis`使用`Sql`进行模糊查询](#mybatis使用sql进行模糊查询)
+      - [`MyBatis`之分页查询-`MyBatis PageHelper`](#mybatis之分页查询-mybatis-pagehelper)
+      - [`Mybatis`中大于小于等于](#mybatis中大于小于等于)
+      - [`Mybtais`封装成`Map`结果](#mybtais封装成map结果)
     - [Redis](#redis)
       - [Redis基本安装知识](#redis基本安装知识)
       - [Redis五大数据类型和三种特殊的数据类型](#redis五大数据类型和三种特殊的数据类型)
@@ -139,6 +143,9 @@
       - [关于本地``Git``传送``Blog``的注意点](#关于本地git传送blog的注意点-1)
       - [`EasyExcel`的使用](#easyexcel的使用)
       - [布隆过滤器](#布隆过滤器)
+      - [`java stream`中`Collectors`的用法](#java-stream中collectors的用法)
+      - [`Spring`手动回滚事务](#spring手动回滚事务)
+      - [`stream`中`Collectors`的用法](#stream中collectors的用法)
     - [小程序项目杂记](#小程序项目杂记)
       - [小程序获取``openId``](#小程序获取openid)
       - [小程序使用``weUI``](#小程序使用weui)
@@ -153,6 +160,7 @@
   - [``DateUse``](#dateuse)
     - [``Anaconda``的基本使用](#anaconda的基本使用)
     - [`numpy`的使用](#numpy的使用)
+    - [`UbUntu`中的数据库安装](#ubuntu中的数据库安装)
   - [Algorithm](#algorithm)
     - [二叉树遍历算法](#二叉树遍历算法)
     - [分治算法](#分治算法)
@@ -370,6 +378,14 @@
 
 #### [``MBP``实现分页查询](./日常Blog/MybatisPlus实现分页查询.md)
 
+#### [`Mybatis`使用`Sql`进行模糊查询](./日常Blog/Mybatis使用Sql进行模糊查询.md)
+
+#### [`MyBatis`之分页查询-`MyBatis PageHelper`](./日常Blog/MyBatis之分页查询-MyBatis_PageHelper.md)
+
+#### [`Mybatis`中大于小于等于](./日常Blog/Mybatis中大于小于等于.md)
+
+#### [`Mybtais`封装成`Map`结果](./日常Blog/Mybtais封装成Map结果.md)
+
 <hr>
 
 ### [Redis](./数据库/Redis/Redis基础)
@@ -485,6 +501,12 @@
 
 #### [布隆过滤器](./日常Blog/布隆过滤器.md)
 
+#### [`java stream`中`Collectors`的用法](./日常Blog/stream中Collectors的用法.md)
+
+
+#### [`Spring`手动回滚事务](./日常Blog/Spring手动回滚事务.md)
+
+#### [`stream`中`Collectors`的用法](./日常Blog/stream中Collectors的用法.md)
 
 <hr>
 
@@ -517,6 +539,9 @@
 ### [``Anaconda``的基本使用](./研究生生涯/单基因病遗传数据库/数据挖掘/Anaconda基本.md)
 
 ### [`numpy`的使用](./研究生生涯/单基因病遗传数据库/数据挖掘/数据分析/)
+
+### [`UbUntu`中的数据库安装](./日常Blog/UbUntu中的数据库安装.md)
+
 
 <hr/>
 
