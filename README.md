@@ -146,6 +146,7 @@
       - [`java stream`中`Collectors`的用法](#java-stream中collectors的用法)
       - [`Spring`手动回滚事务](#spring手动回滚事务)
       - [`stream`中`Collectors`的用法](#stream中collectors的用法)
+      - [关于在`IDEA`中使用`Git`的一些操作](#关于在idea中使用git的一些操作)
     - [小程序项目杂记](#小程序项目杂记)
       - [小程序获取``openId``](#小程序获取openid)
       - [小程序使用``weUI``](#小程序使用weui)
@@ -507,6 +508,8 @@
 #### [`Spring`手动回滚事务](./日常Blog/Spring手动回滚事务.md)
 
 #### [`stream`中`Collectors`的用法](./日常Blog/stream中Collectors的用法.md)
+
+#### [关于在`IDEA`中使用`Git`的一些操作](./日常Blog/关于在IDEA中使用Git注意点.md)
 
 <hr>
 
