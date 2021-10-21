@@ -169,6 +169,7 @@
     - [dp算法](#dp算法)
   - [数据挖掘](#数据挖掘)
     - [关于使用`Jupyter`时`Mac`乱码](#关于使用jupyter时mac乱码)
+    - [`Scrapy`爬虫实例](#scrapy爬虫实例)
 
 
 
@@ -563,6 +564,8 @@
 ## [数据挖掘](./研究生生涯/单基因病遗传数据库/数据挖掘/dataMing/)
 
 ### [关于使用`Jupyter`时`Mac`乱码](./研究生生涯/单基因病遗传数据库/数据挖掘/dataMing/关于Mac中jupyter乱码.md)
+
+### [`Scrapy`爬虫实例](./研究生生涯/爬虫/Scrapy爬虫实例.md)
 
 
 <div style="height:200px;"></div>
