@@ -297,7 +297,18 @@ class QuotesSpider(scrapy.Spider):
 scrapy crawl quotes
 ```
 
-就可以看到`Scrapy`的运行结果了。
+此时新版本的`scrapy`可能会报错
+
+![图 13](../../images/faa3184b9bdb02c48675651c71a458beb017a702e597b625e3ed4cfc463c1ea5.png)  
+
+则需要在环境安装提示的包即可
+
+```python
+conda install protego
+```
+
+
+然后在运行就可以看到`Scrapy`的运行结果了。
 
 ```python
 2021-10-21 16:33:56 [scrapy.utils.log] INFO: Scrapy 2.4.1 started (bot: spider)

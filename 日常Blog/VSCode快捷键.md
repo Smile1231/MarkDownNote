@@ -28,6 +28,7 @@
 - ``F4`` 编辑源 （必备）
 - ``Ctrl + Shift + F7`` 高亮显示所有该选中文本，按 ``Esc`` 高亮消失 （必备）
 - ``Ctrl + Shift + Alt + U`` 自动生成``UML``图,是真的方便. 
+- `Ctrl + Shift + Alt + J` 选中相同的
 
 
 
